@@ -1,7 +1,7 @@
-Este es el comienzo de una historia de programador
-llegaremos lejos  juntos, asumiendo retos
-todo paso a paso sin sofocarse
-Nosotros podemos mis estimados amigos, seremos reconocidos
+Mardqueo garcia , joven cpn deseos de aprender un lenguaje de programacion
+hay metas por cumplir, por lo tanto hay q esmerarse
+
+Este un texto diferente, todo ha cambiado
 
 Tenemos poco conocimiento sobre python, y git, pero todo es posible poniendole esmero,
 no se nace aprendido, pero tenemos la capacidad de hacer cosas sorprendentes
