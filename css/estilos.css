@@ -11,15 +11,9 @@ body{
     border: 1px solid #740707;
     margin: 0 auto;
 }
-#container > h1{
-    font-size: 10px;
-}
 #cabecera{
-    background-color: #5dc07e;
+    background-color: #0a2212;
     padding: 12px;
-    text-align: center;
-}
-#cabecera > h2{
-    color: #fff;
-    font-size: 20px;
+    text-align: center ;
+    color: #740707;
 }
