@@ -11,6 +11,9 @@ body{
     border: 1px solid #740707;
     margin: 0 auto;
 }
-#container h1{
-    font-size: 20px;
+#cabecera{
+    background-color: #0a2212;
+    padding: 12px;
+    text-align: center ;
+    color: #740707;
 }
