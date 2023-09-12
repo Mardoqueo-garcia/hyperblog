@@ -1,19 +1,40 @@
 body{
-    color: red;
+    background-color: black;
+    color: white;
     text-align: center;
-    margin: 1em;
-    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #container{
     width: 70%;
-    padding: 1em;
+    padding: .3em;
     text-align: left;
-    border: 1px solid #740707;
+    border: 1px solid #060ad3;
     margin: 0 auto;
 }
+#container h1{
+    font-size: 20px;
+}
 #cabecera{
-    background-color: #0a2212;
-    padding: 12px;
+    background-color: #130877;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, .5);
+    padding: 0.5em;
     text-align: center ;
-    color: #740707;
+    color: #c02b11;
+    font-weight: bold;
+}
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: .8em;
+}
+#post{
+    background: white;
+    padding: 1em;
+    color: #060ad3;
 }
