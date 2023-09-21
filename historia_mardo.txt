@@ -8,6 +8,7 @@ no se nace aprendido, pero tenemos la capacidad de hacer cosas sorprendentes.
 
 Experimento numero uno del git rebase
 
+Experimento numero dos del git rebase
 
 Master 1
 
