@@ -6,6 +6,9 @@ Este un texto diferente, todo ha cambiado
 Tenemos poco conocimiento sobre python, y git, pero todo es posible poniendole esmero,
 no se nace aprendido, pero tenemos la capacidad de hacer cosas sorprendentes.
 
+Experimento numero uno del git rebase
+
+
 Master 1
 
 Master 2
