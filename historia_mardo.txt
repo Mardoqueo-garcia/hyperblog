@@ -7,3 +7,6 @@ Tenemos poco conocimiento sobre python, y git, pero todo es posible poniendole e
 no se nace aprendido, pero tenemos la capacidad de hacer cosas sorprendentes.
 
 Master 1
+
+Master 2
+
